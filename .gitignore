@@ -1,0 +1,6 @@
+*.log
+/db/
+/static/db/
+v/vd/
+
+DB.accdb
